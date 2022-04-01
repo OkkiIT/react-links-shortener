@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "jwtSecret": "vovavishelpogylyat",
+  "mongoUrl": "mongodb+srv://okki:12344321Qw@cluster0.dj8wj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:8080"
+}
